@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ServerClientConsole.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Client.cpp
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Client.cpp(232,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.cpp
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(137,13): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(150,31): warning C4244: 'initializing': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(153,61): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(219,90): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(280,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(287,17): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(372,89): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(398,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(402,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\ServerClientConsole\Server.cpp(495,13): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  ServerClientConsole.vcxproj -> C:\Users\amfsh\Downloads\ServerClientConsole-master\ServerClientConsole-master\x64\Debug\ServerClientConsoleApplication.exe

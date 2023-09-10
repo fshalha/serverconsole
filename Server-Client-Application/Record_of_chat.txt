@@ -1,0 +1,28 @@
+[2023-09-09 11:59:12] CHAT (mage): hello
+[2023-09-09 11:59:26] CHAT (mage): hrii
+[2023-09-09 11:59:47] CHAT (mage): $help
+[2023-09-09 11:59:58] 
+CHAT (me): thr
+[2023-09-09 12:54:29] CHAT (Alis): hi
+[2023-09-09 12:54:33] CHAT (Alis): $help
+[2023-09-09 13:03:38] CHAT (Alis): $help
+[2023-09-09 13:05:15] CHAT (Lia): $help
+[2023-09-09 13:05:37] 
+CHAT (me): hii
+[2023-09-09 13:05:49] CHAT (me): $help
+[2023-09-09 13:15:53] CHAT (Martin): Hi everyone
+[2023-09-09 13:16:11] CHAT (Martin): How are you doing
+[2023-09-09 13:16:17] CHAT (Martin): $help
+[2023-09-09 13:16:47] 
+CHAT (Martin): hello
+[2023-09-09 13:17:03] CHAT (Ben): hi all
+[2023-09-09 13:17:24] 
+CHAT (Ben): hi everyone
+[2023-09-09 21:44:50] CHAT (Mary): hi all
+[2023-09-09 21:45:14] CHAT (John): hi John
+[2023-09-09 21:45:23] CHAT (John): hi Mary
+[2023-09-09 21:45:32] 
+CHAT (John): hellp
+[2023-09-09 21:45:40] CHAT (John): $help
+[2023-09-09 21:47:15] 
+CHAT (hello): heloooo
